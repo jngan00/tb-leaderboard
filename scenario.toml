@@ -8,4 +8,5 @@ name = "agent"
 env = {}
 
 [config]
-concurrency=3
+tasks = "all"
+concurrency = 3

@@ -1,0 +1,279 @@
+{
+  "participants": {},
+  "results": [
+    {
+      "score": 0,
+      "max_score": 89,
+      "pass_rate": 0.0,
+      "task_rewards": {
+        "adaptive-rejection-sampler": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/af80523ecbad4ff5a9d15193f607214e/verifier/test-stdout.txt'"
+        },
+        "bn-fit-modify": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/3c6983f2b8e64ace9b35dc019fbbd935/verifier/test-stdout.txt'"
+        },
+        "break-filter-js-from-html": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/f46d5ed7b10849df8d7869916fec680d/verifier/test-stdout.txt'"
+        },
+        "build-cython-ext": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/91ba8724b1ae4fa58ec19e1acaf89312/verifier/test-stdout.txt'"
+        },
+        "build-pmars": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/faadfaff86e546b4a7734fa4e9737031/verifier/test-stdout.txt'"
+        },
+        "build-pov-ray": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/086e0d5b72df4ac4b4b0cbd784e39d2b/verifier/test-stdout.txt'"
+        },
+        "cancel-async-tasks": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/22ad4791d3a64b538b9667ce2728c758/verifier/test-stdout.txt'"
+        },
+        "caffe-cifar-10": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/1836d3c93b624c4798f80c92b2369dcc/verifier/test-stdout.txt'"
+        },
+        "chess-best-move": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/fd4f221f2b7d4331ba3f4b51241a753e/verifier/test-stdout.txt'"
+        },
+        "circuit-fibsqrt": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/d73e87cbe9e64c0eadb76b2e97cae71e/verifier/test-stdout.txt'"
+        },
+        "cobol-modernization": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/dbb8358446894207bc0d429b47adb374/verifier/test-stdout.txt'"
+        },
+        "code-from-image": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/bdbf854362554d71b04c107385ae505f/verifier/test-stdout.txt'"
+        },
+        "compile-compcert": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/0587eb4ac7ed450fbdfa55ed320544c3/verifier/test-stdout.txt'"
+        },
+        "configure-git-webserver": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/83894cfb9845459bb4a8d78ec6d25088/verifier/test-stdout.txt'"
+        },
+        "constraints-scheduling": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/ecbeebab90724021806a451314f4d515/verifier/test-stdout.txt'"
+        },
+        "count-dataset-tokens": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/a73ff6182e6d4a4086c511de43d793f8/verifier/test-stdout.txt'"
+        },
+        "crack-7z-hash": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/e668fe3ab08448ad8a4a1100822ac045/verifier/test-stdout.txt'"
+        },
+        "db-wal-recovery": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/ed417b11ab914b38902b7a3cda387170/verifier/test-stdout.txt'"
+        },
+        "distribution-search": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/4f2a8103006747aaae232b0d3eacce9c/verifier/test-stdout.txt'"
+        },
+        "dna-assembly": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/da877e2c82d24367b267f57dde7a37bf/verifier/test-stdout.txt'"
+        },
+        "dna-insert": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/5310833f06694340a5e7fb5bbbff34e3/verifier/test-stdout.txt'"
+        },
+        "extract-moves-from-video": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/b4edcc6cf86d491ab022825e4593d2aa/verifier/test-stdout.txt'"
+        },
+        "extract-elf": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/a0fbaad900994e03852e2bd07a8f4e4a/verifier/test-stdout.txt'"
+        },
+        "feal-differential-cryptanalysis": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/6b1ef3db0e8a47c5b9eb6ff0832f6502/verifier/test-stdout.txt'"
+        },
+        "custom-memory-heap-crash": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/c29cf4a251a7401ab75ef102b1dced45/verifier/test-stdout.txt'"
+        },
+        "feal-linear-cryptanalysis": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/5017afa904ac4143a83233df3585b741/verifier/test-stdout.txt'"
+        },
+        "financial-document-processor": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/2d680846c16b4ee8967a4e6727b0499e/verifier/test-stdout.txt'"
+        },
+        "filter-js-from-html": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/26450ab821184d92b82f7d334964510c/verifier/test-stdout.txt'"
+        },
+        "fix-git": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/ad2bb6f77c134d30a2dd0bf56129ed82/verifier/test-stdout.txt'"
+        },
+        "fix-code-vulnerability": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/d3903b8067644cc6ad18e8670fe71e7a/verifier/test-stdout.txt'"
+        },
+        "gcode-to-text": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/a7bc45868282417997a6758f97c6b1c8/verifier/test-stdout.txt'"
+        },
+        "fix-ocaml-gc": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/77c29724140c451792d70f61ace271a5/verifier/test-stdout.txt'"
+        },
+        "git-leak-recovery": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/0837a27143a440a5ae6333211f033682/verifier/test-stdout.txt'"
+        },
+        "headless-terminal": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/8449d42982c24738bbc4331363b3632e/verifier/test-stdout.txt'"
+        },
+        "git-multibranch": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/5d13fddcae8e4d6989362c35ec707642/verifier/test-stdout.txt'"
+        },
+        "gpt2-codegolf": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/e7729f478cbd4de399c00023603e29bb/verifier/test-stdout.txt'"
+        },
+        "kv-store-grpc": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/18bfb9b6083845d1971587a8fc475c54/verifier/test-stdout.txt'"
+        },
+        "large-scale-text-editing": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/b0556a92e4ef43be88f39cd8ccbe2b0d/verifier/test-stdout.txt'"
+        },
+        "install-windows-3.11": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/99e1555ef9c748a587b6d6fc80ccbf4f/verifier/test-stdout.txt'"
+        },
+        "llm-inference-batching-scheduler": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/9e23340c8efe48b1a8dea03e79c76f4c/verifier/test-stdout.txt'"
+        },
+        "largest-eigenval": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/85d88f0ea29a4345bfec1dc3787d475a/verifier/test-stdout.txt'"
+        },
+        "log-summary-date-ranges": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/e010adb6c6224f73bd7228d715bab497/verifier/test-stdout.txt'"
+        },
+        "hf-model-inference": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/bf936a083e7247c08066ee8dd78987bb/verifier/test-stdout.txt'"
+        },
+        "mailman": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/5dd611b2f51d49868050b7e758b05cda/verifier/test-stdout.txt'"
+        },
+        "make-doom-for-mips": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/f6acb3d03abb4b1da3757f3f9b5def15/verifier/test-stdout.txt'"
+        },
+        "mcmc-sampling-stan": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/6ffe66e2121740c292a8cf6e19dfb96e/verifier/test-stdout.txt'"
+        },
+        "merge-diff-arc-agi-task": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/e20b650a30f14ebe9d143f70e4dbc3d3/verifier/test-stdout.txt'"
+        },
+        "make-mips-interpreter": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/99e8f7b6ab414b8ba8cf5da58009747b/verifier/test-stdout.txt'"
+        },
+        "model-extraction-relu-logits": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/0a895048d4d2498dac85c1cc2dbc3915/verifier/test-stdout.txt'"
+        },
+        "modernize-scientific-stack": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/26e75ef1523e411a97f4f372484f5907/verifier/test-stdout.txt'"
+        },
+        "multi-source-data-merger": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/b7fc010987bf480b8ab891c18156ef2f/verifier/test-stdout.txt'"
+        },
+        "nginx-request-logging": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/a8d26db49c4046d082746eed33f3a336/verifier/test-stdout.txt'"
+        },
+        "openssl-selfsigned-cert": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/d0cad242324c4ed491058fb6c55c597b/verifier/test-stdout.txt'"
+        },
+        "mteb-leaderboard": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/766df978c5ca409f93ec3c8a46a326fb/verifier/test-stdout.txt'"
+        },
+        "mteb-retrieve": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/a28f83cfce544210886287c7a2bc1916/verifier/test-stdout.txt'"
+        },
+        "overfull-hbox": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/419574d4cce94cca9c7805efa7f0040c/verifier/test-stdout.txt'"
+        },
+        "password-recovery": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/cd5152a0983f4a318db6e1e8051aae26/verifier/test-stdout.txt'"
+        },
+        "path-tracing-reverse": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/a4e6ef95501849748f10542e6c6b5453/verifier/test-stdout.txt'"
+        },
+        "path-tracing": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/dc2d2735607948efa0ab22263e67da54/verifier/test-stdout.txt'"
+        },
+        "polyglot-c-py": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/43bc3162f6154882ae012d7eb2235217/verifier/test-stdout.txt'"
+        },
+        "polyglot-rust-c": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/2057ae65f20c4a0989ba5414dbbfa6fe/verifier/test-stdout.txt'"
+        },
+        "protein-assembly": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/2c8871a1a3794172ba1fae873c98dc7a/verifier/test-stdout.txt'"
+        },
+        "portfolio-optimization": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/1f1af8bb74314cff91b09d48b299b5a4/verifier/test-stdout.txt'"
+        },
+        "prove-plus-comm": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/0507da7519f6426a811a9bca3d5c8d01/verifier/test-stdout.txt'"
+        },
+        "pytorch-model-cli": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/e79e5f7508274bc3a4d1ccce6f78d50d/verifier/test-stdout.txt'"
+        },
+        "pypi-server": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/672d044c469e4f2ba006dc1add99c094/verifier/test-stdout.txt'"
+        },
+        "qemu-alpine-ssh": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/4e90caeb62654f718cbd9e37052194ff/verifier/test-stdout.txt'"
+        },
+        "qemu-startup": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/9abf4ab2bde148488156c3632a4d0091/verifier/test-stdout.txt'"
+        },
+        "query-optimize": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/62dfe9bafb274f58b55523bc0b5bea24/verifier/test-stdout.txt'"
+        },
+        "raman-fitting": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/825102795b51486e9828edeaeed849e2/verifier/test-stdout.txt'"
+        },
+        "pytorch-model-recovery": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/e21f550489504131a47664f77ebb282d/verifier/test-stdout.txt'"
+        },
+        "regex-log": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/13344823250b4d10a7b4e042eaf9f3f8/verifier/test-stdout.txt'"
+        },
+        "regex-chess": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/b693bd13150e4d918158676dfd6590a1/verifier/test-stdout.txt'"
+        },
+        "rstan-to-pystan": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/4f4eb3eed67f41509929a590df5b06fb/verifier/test-stdout.txt'"
+        },
+        "sanitize-git-repo": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/025299be9f7947de93c8b91a93041040/verifier/test-stdout.txt'"
+        },
+        "sam-cell-seg": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/9c62cc8045fb40acb128a1dd43daa2c0/verifier/test-stdout.txt'"
+        },
+        "reshard-c4-data": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/75db7065899c4e188ac690b0261bd4d0/verifier/test-stdout.txt'"
+        },
+        "schemelike-metacircular-eval": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/4091598436b445f9bfbd3c1740e21800/verifier/test-stdout.txt'"
+        },
+        "sparql-university": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/b27da6f3bc0e4608af4cb7c43d36821b/verifier/test-stdout.txt'"
+        },
+        "sqlite-db-truncate": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/33bd5707c3344d7cad88811cb14e67ca/verifier/test-stdout.txt'"
+        },
+        "sqlite-with-gcov": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/55c429bfef8b4b9aa7b2dc82673516af/verifier/test-stdout.txt'"
+        },
+        "torch-pipeline-parallelism": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/590a2c384c0f415bb50ea1c2843d9354/verifier/test-stdout.txt'"
+        },
+        "torch-tensor-parallelism": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/ac976c4e1ad94be2ba30410153cfa551/verifier/test-stdout.txt'"
+        },
+        "tune-mjcf": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/2d566cf837f24f54bc2f7327ccc56301/verifier/test-stdout.txt'"
+        },
+        "video-processing": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/4adb60d8964f4cea8cad5ee237a7b0be/verifier/test-stdout.txt'"
+        },
+        "train-fasttext": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/e01f27873e7c497ea7df7d20325bf328/verifier/test-stdout.txt'"
+        },
+        "vulnerable-secret": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/f6b7a3ad097a4bf597e9048381108ac8/verifier/test-stdout.txt'"
+        },
+        "write-compressor": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/0b796dfd09fe42fd80b5c63d79a51473/verifier/test-stdout.txt'"
+        },
+        "winning-avg-corewars": {
+          "error": "[Errno 2] No such file or directory: '/workspace/trials/720efe42ee6a404aaeb79ccab375f23d/verifier/test-stdout.txt'"
+        }
+      }
+    }
+  ]
+}

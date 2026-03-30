@@ -1,6 +1,6 @@
 [green_agent]
 image = "ghcr.io/rdi-foundation/terminal-bench-green"
-env = { LOG_LEVEL = "INFO" }
+env = { LOG_LEVEL = "INFO", WORKSPACE = "/tmp/tb-workspace" }
 
 [[participants]]
 image = "ghcr.io/rdi-foundation/terminal-bench-dummy-purple"

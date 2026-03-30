@@ -73,6 +73,7 @@ services:
     user: root
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
+      - /tmp/tb-workspace:/tmp/tb-workspace
     depends_on:{green_depends}
     networks:
       - agent-network

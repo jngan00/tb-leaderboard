@@ -70,6 +70,7 @@ services:
       timeout: 3s
       retries: 10
       start_period: 30s
+    user: root
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
     depends_on:{green_depends}

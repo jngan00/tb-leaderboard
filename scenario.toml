@@ -3,7 +3,7 @@ image = "ghcr.io/rdi-foundation/terminal-bench-green"
 env = { LOG_LEVEL = "INFO" }
 
 [[participants]]
-image = ""
+image = "ghcr.io/rdi-foundation/terminal-bench-dummy-purple""
 name = "agent"
 env = {}
 

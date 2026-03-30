@@ -7,6 +7,7 @@ image = "ghcr.io/rdi-foundation/terminal-bench-dummy-purple"
 name = "agent"
 env = {}
 #
+#
 
 [config]
 tasks = "all"

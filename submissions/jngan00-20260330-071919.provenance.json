@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/rdi-foundation/terminal-bench-green@sha256:aee7151988b98adcd15a39cc2f72a07e6c5f3b3dbce6890d998b1d3ae901da22",
+    "agent": "ghcr.io/rdi-foundation/terminal-bench-dummy-purple@sha256:393889844ed81d55b5411a98944e9dbb411443b38a786fce15ea0b206b585050",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-03-30T07:19:19Z",
+  "github_actions": {
+    "run_url": "https://github.com/jngan00/tb-leaderboard/actions/runs/23731645322",
+    "run_logs_url": "https://api.github.com/repos/jngan00/tb-leaderboard/actions/runs/23731645322/logs",
+    "ref": "refs/heads/test001",
+    "sha": "d859fe595472a0ce918a3f64cd275cc38cab34ad",
+    "repository_url": "https://github.com/jngan00/tb-leaderboard",
+    "workflow_ref": "jngan00/tb-leaderboard/.github/workflows/run-scenario.yml@refs/heads/test001",
+    "workflow_sha": "d859fe595472a0ce918a3f64cd275cc38cab34ad"
+  }
+}
